@@ -1,4 +1,4 @@
-# gform
+# g-form
 ## Description
 Custom Google Form.<br>
 The data submited in this custom form wil be saved to corresponding response of Google Form.
