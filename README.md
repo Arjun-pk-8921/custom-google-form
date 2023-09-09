@@ -1,6 +1,6 @@
 # gform
 ## Description
-Custom Google Form.
+Custom Google Form.<br>
 The data submited in this custom form wil be saved to corresponding response of Google Form.
 ## Getting started
 1.Create a google form.<br>
