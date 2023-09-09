@@ -1,5 +1,4 @@
 :root {
-    /* --base-color:#439ccd; */
     --base-color: #0058ca;
     --border-color: #d8dee4;
 }
@@ -31,20 +30,14 @@ nav {
     flex-direction: column;
     align-items: center;
     color: rgb(255, 255, 255);
-    /* height: 300px; */
     background-color: var(--base-color);
     border-radius: 10px;
     font-family: 'Poppins', sans-serif;
     left: 50%;
     transform: translate(-50%);
-    /* border-style: groove;
-    border-width: 1px;
-    border-color: var(--base-color); */
-    /* background-image: url("./images/todo3.svg"); */
 }
 
 .todo-form-2 {
-    /* background-color: rgb(101, 226, 43); */
     display: flex;
     font-family: 'Poppins', sans-serif;
     left: 50%;
