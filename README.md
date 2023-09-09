@@ -2,7 +2,7 @@
 ## Description
 Custom Google Form.<br>
 The data submited in this custom form wil be saved to corresponding response of Google Form.
-## Getting started
+## Building it
 1.Create a google form.<br>
 2.Make your own custom form using html css with same input fields.<br>
 2.From google form select get pre-filled link and fill and submit the form.<br>
