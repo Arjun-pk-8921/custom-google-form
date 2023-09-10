@@ -16,3 +16,4 @@ The data submited in this custom form wil be saved to corresponding response of 
 ```html
 <input name="<copy paste from each input field of your inspected pre-filled google form>"></input>
 ```
+The _redirects file is added for deploying it in netlify.
